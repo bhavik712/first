@@ -1,0 +1,30 @@
+ 
+        header{
+            font-size: 20px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .all{
+            margin-left: 150px;
+            margin-right: 150px;
+            padding-left: 10px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+        }
+        .intro{
+            color:chocolate;
+            background-color: bisque;
+            
+        }
+        .skills{
+            color:green;
+            background-color: azure;
+        }
+        .image{
+            border-color: goldenrod;
+            border: 8px;
+            border-style: double;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+     
